@@ -105,10 +105,12 @@ const asad = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadasad16062004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=muhammadasad16062004@gmail.com&su=Hello%20Asad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-425358361/)
 
 <br/>
+
+📧 muhammadasad16062004@gmail.com
 
 *⭐ If something here caught your eye, a star on a repo means a lot.*
 
