@@ -42,7 +42,7 @@ const asad = {
 |:--|:--|:--|
 | 📚 **[RAG Document Q&A](https://github.com/m-asad1/rag-document-qa)** | Upload files, ask questions, get answers **with citations** and answer-quality evaluation | `Python` `LLMs` `Vector Search` |
 | 🎓 **[University Recommender](https://github.com/m-asad1/university-recommendation-system)** | ML-powered recommendations to help students find the right university | `Flask` `React` `Vite` `ML` |
-| 🏢 **[Tasork](https://github.com/m-asad1/tasork-website)** | Website and platform for a B2B dev studio, with a rate-limited contact API and spam protection | `React` `TypeScript` `Tailwind` `Node` `MongoDB` |
+| 🏢 **[Tasork](https://github.com/m-asad1/Tasork)** · [🌐 Live](https://www.tasork.com/) | Website and platform for a B2B dev studio, with a rate-limited contact API and spam protection | `React` `TypeScript` `Tailwind` `Node` `MongoDB` |
 
 <!-- TODO: replace the three links above with your real repo names once they're pushed -->
 
